@@ -1,0 +1,8 @@
+// Feature: Calculate sum of two numbers
+
+// Input: Two numbers (num1, num2)
+
+// Step 1: Accept input from the user for num1
+// Step 2: Accept input from the user for num2
+// Step 3: Add num1 and num2 to get the sum
+// Step 4: Display the sum to the user
