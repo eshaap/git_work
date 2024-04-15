@@ -1,7 +1,0 @@
-// Pseudo code:
-1. Display "Enter the first number: " message to the user
-2. Read input from the user and store it in variable num1
-3. Display "Enter the second number: " message to the user
-4. Read input from the user and store it in variable num2
-5. Set variable sum to num1 + num2
-6. Display "The sum of " + num1 + " and " + num2 + " is " + sum

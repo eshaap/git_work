@@ -1,9 +1,0 @@
-// Pseudo code for Release branch:
-1. Identify and prioritize outstanding bugs reported by users or detected during testing.
-2. Review code changes made in the development branch related to the "Calculate sum of two numbers" feature.
-3. Address any critical bugs or issues that could affect the stability or functionality of the feature.
-4. Test the feature thoroughly to ensure that the bug fixes or adjustments have been successful.
-5. Make any final adjustments or optimizations to the code as necessary.
-6. Prepare release notes or documentation outlining the changes made in this release.
-7. Coordinate with the testing team or stakeholders to verify that the fixes and adjustments meet the requirements and expectations.
-8. Once everything is verified, merge the changes from the release branch into the main branch for deployment.
